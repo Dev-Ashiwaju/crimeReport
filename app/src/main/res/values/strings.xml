@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Crime Reporting</string>
+    <string name="case_number">Case Number</string>
+    <string name="reporting_officer">Reporting Officer</string>
+    <string name="prepared_by">Prepared By</string>
+    <string name="date">Date</string>
+    <string name="incident">Incident</string>
+    <string name="report">Report</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+
+</resources>
