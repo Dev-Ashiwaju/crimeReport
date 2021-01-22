@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
     Button report;
     SweetAlertDialog pb;
     String message,caseNo,caseDate,prepareBy, reportingOfficer, Incident;
-    String serverUrl = "http://darajephtechnologies.com/accident_report/crime_report/index.php";
+    String serverUrl = "server url";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
